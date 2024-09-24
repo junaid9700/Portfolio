@@ -1,0 +1,18 @@
+[
+  {
+    "key": 1,
+    "title": "React E-Commerce",
+    "imageSrc": "https://media.istockphoto.com/id/1449490038/photo/online-shopping-and-e-commerce-technology-concept-shopper-using-computer-laptop-to-input.webp?s=2048x2048&w=is&k=20&c=3Pmwqsxiy2XTePmajfBQyz2KcnC27QtzaFxNmBD9al0=",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://ecom-shop-pi.vercel.app/",
+    "source": "https://github.com/junaid9700"
+  },
+  {
+    "key": 2,
+    "title": "E-Voting System",
+    "imageSrc": "https://cdn.pixabay.com/photo/2016/11/07/00/49/vote-1804596_1280.jpg",
+    "description": "This is a project made with complete Mern Stack.",
+    "demo": "https://e-votting.netlify.app/",
+    "source": "https://github.com/junaid9700"
+  }
+]

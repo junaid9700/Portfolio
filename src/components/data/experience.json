@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "role": "Associate Software Engineer",
+    "organisation": "IIFA TECH",
+    "startDate": "july 2024",
+    "endDate": "Present",
+    "location": "Johar Town, H block, Pakistan",
+    "experiences": [
+      "Worked on both Frontend and Backend.",
+      "Complete different projects and using Third Party Api's."
+    ],
+    "imageSrc": "company/IIFA TECH.jpeg"
+  },
+  {
+    "id": 2,
+    "role": "Internship in Mern Stack",
+    "organisation": "Knowledge Stream",
+    "startDate": "Sep, 2023",
+    "endDate": "Dec, 2023",
+    "location": "Quaid-e-Azam State, Pakistan",
+    "experiences": [
+      "Build a E-commerce website.",
+      "Worked on CRUD Operation and Api Integration."
+    ],
+    "imageSrc": "company/knowledge_streams_tech_logo.jpeg"
+  }
+]
