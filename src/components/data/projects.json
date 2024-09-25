@@ -12,7 +12,7 @@
     "title": "E-Voting System",
     "imageSrc": "https://cdn.pixabay.com/photo/2016/11/07/00/49/vote-1804596_1280.jpg",
     "description": "This is a project made with complete Mern Stack.",
-    "demo": "e-voting-m-ern-stack-project.vercel.app",
+    "demo": "e-voting-m-ern-stack-project.vercel.app/",
     "source": "https://github.com/junaid9700"
   }
 ]
