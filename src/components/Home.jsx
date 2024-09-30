@@ -17,7 +17,7 @@ const Home = () => {
       backSpeed: 50,
       loop: true,
     };
-
+    
     const typed = new Typed(typedRef.current, options);
 
     return () => {

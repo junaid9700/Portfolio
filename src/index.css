@@ -186,3 +186,104 @@ a {
 .contact-icon .items .icons {
   font-size: 2rem;
 }
+
+
+/* Media Queries for Mobile Devices (Max Width: 768px) */
+
+@media (max-width: 768px) {
+  .nav_bar {
+    flex-direction: column;
+  }
+
+  .nav_bar .nav_items {
+    padding: 8px;
+    font-size: 1rem;
+  }
+
+  .home {
+    flex-direction: column;
+    height: auto;
+  }
+
+  .home .left {
+    width: 90%;
+    padding: 20px;
+  }
+
+  .home .right .img {
+    margin-top: 20px;
+  }
+
+  .home .right .img img {
+    height: 15rem;
+    width: 15rem;
+  }
+
+  .ex {
+    width: 100%;
+  }
+
+  .ex-items {
+    flex-direction: column;
+    width: 90%;
+  }
+
+  .skills {
+    width: 100%;
+  }
+
+  .skills .items .item {
+    width: calc(50% - 40px);
+    margin: 10px;
+  }
+
+  .skills .items .item img {
+    width: 50px;
+  }
+
+  .contact-icon {
+    height: auto;
+    flex-direction: column;
+  }
+
+  .contact-icon .items {
+    height: 50px;
+    width: 50px;
+  }
+
+  .contact-icon .items .icons {
+    font-size: 1.5rem;
+  }
+}
+
+/* Media Queries for Extra Small Devices (Max Width: 480px) */
+
+@media (max-width: 480px) {
+  .home .left {
+    width: 100%;
+    padding: 10px;
+  }
+
+  .home .right .img img {
+    height: 12rem;
+    width: 12rem;
+  }
+
+  .skills .items .item {
+    width: 100%;
+  }
+
+  .ex-items {
+    width: 100%;
+    margin: 10px 0;
+  }
+
+  .contact-icon .items {
+    height: 40px;
+    width: 40px;
+  }
+
+  .contact-icon .items .icons {
+    font-size: 1.2rem;
+  }
+}
